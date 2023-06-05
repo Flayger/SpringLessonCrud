@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Flayg\IdeaProjects\Lesson1Spring\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+src/main/resources/hibernate.properties
+src/main/resources/database.properties
+target/

@@ -1,0 +1,7 @@
+
+src/main/resources/database.properties
+src/main/resources/hibernate.properties
+target/
+
+**/.idea/workspace.xml 
+**/.idea/tasks.xml
